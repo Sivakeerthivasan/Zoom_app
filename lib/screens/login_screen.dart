@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zoom_clone_tutorial/widgets/custom_button.dart';
+import 'package:flutter/widgets.dart';
 
 class LoginSreen extends StatefulWidget {
   const LoginSreen({super.key});
@@ -9,8 +9,6 @@ class LoginSreen extends StatefulWidget {
 }
 
 class _LoginSreenState extends State<LoginSreen> {
-  
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -25,9 +23,7 @@ class _LoginSreenState extends State<LoginSreen> {
             padding: const EdgeInsets.symmetric(vertical: 38.0),
             child: Image.asset('assets/images/onboarding.jpg'),
           ),
-          CustomButton(text: 'Google Sign In',onPressed: (){
-            
-          }),
+          CustomButton(text: 'Google Sign In', onPressed: () {}),
         ],
       ),
     );
