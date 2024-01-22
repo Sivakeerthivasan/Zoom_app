@@ -4,6 +4,8 @@ import 'package:flutter/widgets.dart';
 =======
 import 'package:zoom_app/resources/auth_methods.dart';
 import 'package:zoom_clone_tutorial/widgets/custom_button.dart';
+
+import '../widgets/custom_button.dart';
 >>>>>>> 3800b2c (firebase added)
 
 class LoginSreen extends StatefulWidget {
