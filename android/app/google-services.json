@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11071040926",
+    "project_id": "zoom-app-366c3",
+    "storage_bucket": "zoom-app-366c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11071040926:android:2835db9a337650c815ba8f",
+        "android_client_info": {
+          "package_name": "com.example.zoom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujR2mua1aK15yX0qxC41ydb0KXDfHS3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
